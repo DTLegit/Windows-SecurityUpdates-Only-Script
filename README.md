@@ -21,7 +21,7 @@ It sets the following settings:
 
 This script is made publically available for use and consumption under the terms and conditions set forth by the GNU Public License Version 3, with an additional requirement of proper credit being given if used in other projects. 
 
-NOTE: **This script is considered to be in a finished state. However, additional testing is still required (especially needs to be tested under Windows feature upgrades and older releases of Windows 11) to ensure that this can fully be used under production environments. Any and all testing and feedback/PRs to help fix any potential issues and improve code quality/effifiency with this script is welcome and higly encouraged to hopefully ensure this script gets up to production quality. Thank you in advance for your time to anyone who opts to do so.** 
+NOTE: **This script is considered to be in a finished state. However, additional testing is still required (especially needs to be tested under Windows feature upgrades and older releases of Windows 11) to ensure that this can fully be used under production environments. Any and all testing and feedback/PRs to help fix any potential issues and improve code quality/effifiency with this script is welcome and highly encouraged to hopefully ensure this script gets up to production quality. Thank you in advance for your time to anyone who opts to do so.** 
 
 Credit goes to @Britec from YouTube for the tutorial and method used in this script to configure the security-only update settings and @ChrisTitusTech for the quality update deferral recommendations. 
 Thank you so much to the both of them and they are absolute legends! 
